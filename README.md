@@ -115,12 +115,7 @@ const sonuKumar = {
 
 ## 📊 GitHub Analytics & Statistics                                                                                                                                
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonukumar12jan&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sonukumar12jan&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sonukumar12jan&theme=redical&hide_border=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF" width="49%" />
+ username=Sonukumar12jan&theme=redical&hide_border=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF" width="49%" />
 </div>
 
 <br/>
