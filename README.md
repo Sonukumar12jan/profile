@@ -113,16 +113,8 @@ const sonuKumar = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Analytics & Statistics
+## 📊 GitHub Analytics & Statistics                                                                                                                                
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sonukumar12jan&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sonukumar12jan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonukumar12jan&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E"/>
 </div>
 
