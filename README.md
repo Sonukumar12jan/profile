@@ -114,7 +114,7 @@ const sonuKumar = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Analytics & Statistics                                                                                                                                
-
+<div align="center">
  username=Sonukumar12jan&theme=redical&hide_border=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF" width="49%" />
 </div>
 
