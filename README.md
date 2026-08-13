@@ -28,30 +28,6 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
-```javascript
-const sonuKumar = {
-    location: "India 🇮🇳",
-    role: "Full-Stack Developer & Software Engineer",
-    passion: ["Coding", "Problem Solving", "Learning New Tech"],
-    currentlyLearning: "Advanced Web Development & DSA 📚",
-    funFact: "I turn coffee into code! ☕️",
-    askMeAbout: ["Web Dev", "JavaScript", "React", "Node.js"],
-    technologies: {
-        frontend: ["React", "JavaScript", "HTML5", "CSS3", "Tailwind"],
-        backend: ["Node.js", "Express", "MongoDB"],
-        languages: ["JavaScript", "TypeScript", "Java", "Python"],
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        tools: ["Git", "GitHub", "VS Code", "Postman"],
-        cloud: ["AWS", "Heroku", "Netlify", "Vercel"]
-    },
-    architecture: ["Single Page Applications", "RESTful APIs", "Microservices"],
-    currentFocus: "Building scalable web applications 🎯",
-    goals2024: "Master System Design & Contribute to Open Source",
-    motto: "Keep Learning, Keep Growing 🌱"
-};
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> Tech Stack & Skills
 
